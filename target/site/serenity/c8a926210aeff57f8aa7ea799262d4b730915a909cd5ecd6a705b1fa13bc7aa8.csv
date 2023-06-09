@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","Updating the user and verifying updated information.","ERROR","2023-06-09T18:25:29.856+01:00[Europe/London]","0.0","4.28"
+"User CRUD test","Creating a new user","ERROR","2023-06-09T18:25:34.437+01:00[Europe/London]","0.0","0.11"
+"User CRUD test","Verify user is created by id","ERROR","2023-06-09T18:25:34.553+01:00[Europe/London]","0.0","0.16"
